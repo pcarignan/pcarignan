@@ -1,0 +1,69 @@
+.rouge{
+    /* on fait jamais sa*/
+    height: 400px;
+    /*mettre une hauteur fixe en BS*/
+    background-color: red;
+}
+
+.bleu{
+    height: 400px;
+    background-color: blue;
+}
+
+.jaune{
+    height: 400px;
+    background-color: yellow;
+}
+
+.vert{
+    height: 400px;
+    background-color: #34ce57;
+}
+
+.white{
+    height: 400px;
+    background-color: white;
+}
+
+.bg{
+    background-image: url(../img/avengers.png);
+    background-size: cover;
+    height: 1080px;
+}
+
+hr{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: red;
+   }
+
+h1 {
+    text-shadow: 7px 7px 10px black;
+}
+
+h3 {
+    text-shadow: 2px 2px 8px red;
+}
+
+p {
+    text-shadow: 3px 3px 8px grey;
+}
+ .bg2 {
+     background-color: darkviolet;
+ }
+
+ .violet{
+     background-color: darkviolet;
+ }
+
+ .button2{
+     background-color: darkviolet;
+     background: 
+ }
+
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
