@@ -21,11 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1QPy9c7wMxH0seyOskCSCW9B7pK" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloDesignWeb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +67,12 @@
       <workItem from="1568058660720" duration="1555000" />
       <workItem from="1568060468769" duration="2602000" />
       <workItem from="1568069189319" duration="182000" />
-      <workItem from="1568117398264" duration="2287000" />
+      <workItem from="1568117398264" duration="2871000" />
+      <workItem from="1568135340295" duration="497000" />
+      <workItem from="1568234253378" duration="1442000" />
+      <workItem from="1568297150905" duration="6170000" />
+      <workItem from="1568394646048" duration="8000" />
+      <workItem from="1568590816877" duration="6412000" />
     </task>
     <servers />
   </component>
