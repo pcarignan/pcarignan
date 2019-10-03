@@ -29,6 +29,7 @@
     background-image: url(../img/spiderman-minimalist-mp-1920x1080.jpg);
     background-size: cover;
     height: 1080px;
+    background-position: center;
 }
 
 hr{
@@ -64,6 +65,7 @@ h3 {
 }
  .bg2 {
      background-color: midnightblue;
+     min-height: 500px;
  }
 
  .violet{

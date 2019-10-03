@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96c1429-f327-4882-917f-d22eac296a1d" name="Default Changelist" comment="" />
+    <list default="true" id="89669faf-6547-46b5-9dd6-571788d0deaa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -24,21 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1QPy9c7wMxH0seyOskCSCW9B7pK" />
+  <component name="ProjectId" id="1RFesvUuYIeNlfzib1lJaTh3QXI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pcari\PhpstormProjects\HelloBootStrap\img" />
-      <recent name="C:\Users\pcari\PhpstormProjects\HelloBootStrap\js" />
-      <recent name="C:\Users\pcari\PhpstormProjects\HelloBootStrap" />
+      <recent name="C:\Users\pcari\Documents\GitHub\pcarignan\DesignWeb\WebSite\img" />
+      <recent name="C:\Users\pcari\Documents\GitHub\pcarignan\DesignWeb\WebSite" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,34 +54,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f96c1429-f327-4882-917f-d22eac296a1d" name="Default Changelist" comment="" />
-      <created>1567686375926</created>
+      <changelist id="89669faf-6547-46b5-9dd6-571788d0deaa" name="Default Changelist" comment="" />
+      <created>1569267481370</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567686375926</updated>
-      <workItem from="1567686377292" duration="4969000" />
-      <workItem from="1567703754370" duration="10000" />
-      <workItem from="1568056301741" duration="2265000" />
-      <workItem from="1568058660720" duration="1555000" />
-      <workItem from="1568060468769" duration="2602000" />
-      <workItem from="1568069189319" duration="182000" />
-      <workItem from="1568117398264" duration="2871000" />
-      <workItem from="1568135340295" duration="497000" />
-      <workItem from="1568234253378" duration="1442000" />
-      <workItem from="1568297150905" duration="6170000" />
-      <workItem from="1568394646048" duration="8000" />
-      <workItem from="1568590816877" duration="6412000" />
-      <workItem from="1568666385239" duration="1323000" />
-      <workItem from="1568721930032" duration="3846000" />
-      <workItem from="1568740261987" duration="16000" />
-      <workItem from="1569328007983" duration="34000" />
-      <workItem from="1569328278597" duration="25000" />
-      <workItem from="1569328439136" duration="471000" />
-      <workItem from="1569440178155" duration="66000" />
-      <workItem from="1569440489940" duration="833000" />
-      <workItem from="1569511520074" duration="1622000" />
-      <workItem from="1569870427521" duration="9000" />
-      <workItem from="1569873503810" duration="622000" />
+      <updated>1569267481370</updated>
+      <workItem from="1569267482613" duration="4919000" />
+      <workItem from="1569326787207" duration="6446000" />
+      <workItem from="1569440026089" duration="1355000" />
+      <workItem from="1569506934288" duration="1706000" />
+      <workItem from="1569876356800" duration="921000" />
     </task>
     <servers />
   </component>
