@@ -10,9 +10,166 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-md-8 text-right">
+            <img src="img/Air-Canada-logo-1.png" class="mt-1"/>
+        </div>
+
+        <div class="col-md-4 mt-2">
+            <p class="font-weight-bold">Air Canada <br>Service Client: 1-888-247-2262 <br>Siège Social: Montréal</p>
+        </div>
+    </div>
+
+    <br>
+    <div class="row">
+        <div class="col-md-10 offset-xl-1 text-center">
+            <h1>Forfait Voyage</h1>
+        </div>
+    </div>
+</div>
+
+    <br>
+<form action="recherche.html">
+    <div class="form-row ml-5 mr-5">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Prénom">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Nom">
+        </div>
+    </div>
+
+    <div class="form-row mt-1 ml-5 mr-5">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Adresse">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Ville">
+        </div>
+    </div>
+
+    <div class="form-row mt-1 ml-5 mr-5">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Code Postal">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Téléphone">
+        </div>
+    </div>
+
+    <br><br><br>
+    <div class="form-row ml-5 mr-5">
+        <div class="form-group col-xl-4">
+            <select id="inputAide" class="form-control">
+                <option selected>Destination</option>
+                <option>États-Unis</option>
+                <option>Mexique</option>
+                <option>Italie</option>
+                <option>France</option>
+            </select>
+        </div>
+        <div class="col-xl-4">
+            <input type="date" class="form-control" placeholder="Départ">
+        </div>
+        <div class="col-xl-4">
+            <input type="date" class="form-control" placeholder="Retour">
+        </div>
+    </div>
+
+    <div class="form-row ml-5 mr-5">
+        <div class="form-group col-xl-6">
+            <select id="inputAdultes" class="form-control">
+                <option selected>Nombre d'adultes</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+            </select>
+        </div>
+
+        <div class="form-group col-xl-6">
+            <select id="inputEnfants" class="form-control">
+                <option selected>Nombre d'enfants</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row ml-5 mr-5">
+        <div class="col-xl-4">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                <label class="form-check-label" for="exampleRadios1">
+                    Avion
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+                <label class="form-check-label" for="exampleRadios2">
+                    Train
+                </label>
+            </div>
+        </div>
+
+        <div class="col-xl-4">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option1" checked>
+                <label class="form-check-label" for="exampleRadios1">
+                    Première Classe
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios4" value="option2">
+                <label class="form-check-label" for="exampleRadios2">
+                    Classe Économique
+                </label>
+            </div>
+        </div>
+
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Tout compris</label>
+            <br>
+            <input type="checkbox" class="form-check-input" id="exampleCheck2">
+            <label class="form-check-label" for="exampleCheck1">Sur la plage</label>
+            <br>
+            <input type="checkbox" class="form-check-input" id="exampleCheck3">
+            <label class="form-check-label" for="exampleCheck1">Près d'un golf</label>
+        </div>
+    </div>
+
+    <br>
+    <div class="form row">
+        <div class="col-xl-6 offset-xl-4">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d22143.523865798277!2d-71.94945815!3d46.0722279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1scarte%20google!5e0!3m2!1sfr!2sca!4v1570481151194!5m2!1sfr!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        </div>
+    </div>
+
+    <br>
+    <div class="col-xl-12 text-center align-items-center">
+        <p>
+            <button type="submit" class="btn btn-danger">Recherche</button>
+        </p>
+    </div>
 
 
-
+</form>
 <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous"></script>
 <script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.js"></script>

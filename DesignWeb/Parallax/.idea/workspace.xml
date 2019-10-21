@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +64,9 @@
       <updated>1569511134927</updated>
       <workItem from="1569511136263" duration="2722000" />
       <workItem from="1569870438000" duration="13960000" />
-      <workItem from="1570111554429" duration="2290000" />
+      <workItem from="1570111554429" duration="2885000" />
+      <workItem from="1570537324690" duration="9000" />
+      <workItem from="1570537662494" duration="4289000" />
     </task>
     <servers />
   </component>
