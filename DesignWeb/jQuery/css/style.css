@@ -1,0 +1,22 @@
+.bg1{
+    background-image: url("../img/mcdavid2.jpg");
+    background-position: center;
+    transition:all 0.5S ease;
+    min-height: 400px;
+    width: 100%;
+}
+
+.white{
+    color: white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.grosseBoite{
+    overflow: hidden;
+    min-height: 400px;
+    width: 300px;
+}
+
+.bg1:hover{
+    transform: scale(1.2);
+}

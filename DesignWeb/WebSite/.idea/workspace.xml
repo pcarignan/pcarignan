@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Formulaire" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -67,6 +67,8 @@
       <workItem from="1570537358293" duration="2476000" />
       <workItem from="1570728628023" duration="2139000" />
       <workItem from="1571416545122" duration="273000" />
+      <workItem from="1575379844500" duration="2000000" />
+      <workItem from="1575946118424" duration="2454000" />
     </task>
     <servers />
   </component>
